@@ -6,6 +6,7 @@ function App() {
     <>
       <Button variant="contained">Hello world</Button>
       hello anh em
+      tôi sửa lần 2 nè
     </>
   );
 }
